@@ -18,7 +18,7 @@ Symbol可以单独或作为混合方式访问公有链和私有链，从而提�
 
 要开始使用Symbol开发，建议您设置工作站。要了解有关Symbol的更多信息，请继续阅读以下文档：
 
-* 内置功能
+* [内置功能](/getting-started/setting-up-workstation)
 * 协议
 * API参考
 * 软件开发套件
